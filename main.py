@@ -138,8 +138,6 @@ if __name__=='__main__':
     # plt.imshow(img, cmap='gray')
     #
     # plt.show()
-    #
-    # print(img.dtype)
 
     # arr = read_rat(file_name)
     # print(arr.shape)
