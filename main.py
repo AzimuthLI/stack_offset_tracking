@@ -142,8 +142,6 @@ if __name__=='__main__':
     # arr = read_rat(file_name)
     # print(arr.shape)
 
-
-
     # sp = SLC_IMAGE('/Volumes/working/Silvan_Aletsch_coregFeb2017/coreg_2011-2018_bscatter_geo/clip_geo_aletschgletscher/s0amp_2011-11-06.tiff').data.shape
     #
     # print(sp)
